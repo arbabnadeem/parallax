@@ -1,0 +1,87 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    height: auto;
+}
+.img1{
+    min-height: 100vh;
+    background-image: url(image1.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.heading1{
+    font-size: 37px;
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    letter-spacing: 8px;
+}
+.span1{
+    background-color: #313534;
+    color: white;
+    padding: 20px;
+}
+.section1{
+    text-align: center;
+    padding: 30px ;
+    font-size: 20px;
+    padding-bottom: 50px;
+    background-color: #f4f4f4;
+    color: rgb(79, 79, 79);
+}
+.heading2{
+    font-size: 50px;
+    margin-bottom: 30px;
+}
+.img2{
+    min-height: 400px;
+    background-image: url(image2.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.heading3{
+    font-size: 60px;
+    font-weight: 50;
+    padding: 10px 20px;
+    background-color: #31353400;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.section2{
+    text-align: center;
+    padding: 30px ;
+    font-size: 20px;
+    padding-bottom: 50px;
+    background-color: #313534;
+    color: rgb(145, 145, 145);
+}
+.span2{
+    background-color: #31353453;
+    color: white;
+    padding: 20px;
+    margin-top: 150px;
+}
+.img3{
+    background-image: url(image3.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    min-height: 400px;
+}
+.span3{
+    background-color: #313534;
+    color: white;
+    padding: 20px;
+    position: relative;
+    top: 340vh;
+}
